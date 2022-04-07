@@ -27,7 +27,7 @@ The dataset is good to practice and compare the different SOTA backbones of Comp
 - CNN: EfficientNet, ConvNeXt, ResNet, ResNext, MobileNet, AlexNet, InceptionNet, DenseNet,…
 - Other architecture
 
-Details can be found on: \href = [Dog vs Cat classification]("https://www.kaggle.com/competitions/dog-vs-cat-classification")
+Details can be found on: [Dog and Cat Classification]("https://www.kaggle.com/competitions/dog-vs-cat-classification")
 
 Because the dataset is quite small and simple structure, so transfer learning tends to obtain a very good results, don't even need fine-tuning or a large number of epochs.
 
