@@ -31,5 +31,17 @@ Details can be found on: [Dog vs Cat Classification](https://www.kaggle.com/comp
 
 Because the dataset is quite small and simple structure, so transfer learning tends to obtain a very good results, don't even need fine-tuning or a large number of epochs.
 
+<img height="300" alt="HCMUT" src="https://github.com/electrodrago/computer-visit/blob/main/result/dogncat.png" />
+
+## Zalo AI Challenge 2021 - 5K Compliance
 <img height="200" alt="HCMUT" src="https://github.com/electrodrago/computer-visit/blob/main/result/dogncat.png" />
+### Objective
+During the Covid-19 outbreak, the Vietnamese government pushed the "5K" public health safety message. In the message, masking and keeping a safe distance are two key rules that have been shown to be extremely successful in preventing people from contracting or spreading the virus. Enforcing these principles on a large scale is where technology may help.
+
+In this challenge, we will create algorithm to detect whether or not a person or group of individuals in a picture adhere to the "mask" and "distance" standards.
+
+Evaluation Method: F1 Score
+
+Details can be found on: [Zalo AI Challenge 2021](https://challenge.zalo.ai/portal/5k-compliance)
+
 
