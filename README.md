@@ -34,7 +34,6 @@ Because the dataset is quite small and simple structure, so transfer learning te
 <img height="300" alt="HCMUT" src="https://github.com/electrodrago/computer-visit/blob/main/result/dogncat.png" />
 
 ## Zalo AI Challenge 2021 - 5K Compliance
-<img height="200" alt="HCMUT" src="https://github.com/electrodrago/computer-visit/blob/main/result/dogncat.png" />
 ### Objective
 During the Covid-19 outbreak, the Vietnamese government pushed the "5K" public health safety message. In the message, masking and keeping a safe distance are two key rules that have been shown to be extremely successful in preventing people from contracting or spreading the virus. Enforcing these principles on a large scale is where technology may help.
 
